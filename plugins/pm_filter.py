@@ -915,7 +915,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
               InlineKeyboardButton('Iᴍᴀɢᴇ Tᴏ Lɪɴᴋ', callback_data='telegraph'),
               ], [
               InlineKeyboardButton('Gʀᴏᴜᴘ Sᴇᴛᴜᴘ', callback_data='earn'),
-              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/cinephilesupport_bot)
+              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/cinephilesupport_bot')
               ], [
               InlineKeyboardButton('⋞ Back To Home', callback_data='start')
               ]]
